@@ -10,3 +10,9 @@ nav{
 	font-family: 'Roboto', sans-serif;
 }
 
+li{  
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding: 12px 50px;
+}
